@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: cfffc1cd7a55b134198e78cd1ff9ea1c
+timeCreated: 1458651217
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite-COURSE-KROKO_0
+    21300002: Sprite-COURSE-KROKO_1
+    21300004: Sprite-COURSE-KROKO_2
+    21300006: Sprite-COURSE-KROKO_3
+    21300008: Sprite-COURSE-KROKO_4
+    21300010: Sprite-COURSE-KROKO_5
+    21300012: Sprite-COURSE-KROKO_6
+    21300014: Sprite-COURSE-KROKO_7
+    21300016: Sprite-COURSE-KROKO_8
+    21300018: Sprite-COURSE-KROKO_9
+    21300020: Sprite-COURSE-KROKO_10
+    21300022: Sprite-COURSE-KROKO_11
+    21300024: Sprite-COURSE-KROKO_12
+    21300026: Sprite-COURSE-KROKO_13
+    21300028: Sprite-COURSE-KROKO_14
+    21300030: Sprite-COURSE-KROKO_15
+    21300032: Sprite-COURSE-KROKO_16
+    21300034: Sprite-COURSE-KROKO_17
+    21300036: Sprite-COURSE-KROKO_18
+    21300038: Sprite-COURSE-KROKO_19
+    21300040: Sprite-COURSE-KROKO_20
+    21300042: Sprite-COURSE-KROKO_21
+    21300044: Sprite-COURSE-KROKO_22
+    21300046: Sprite-COURSE-KROKO_23
+    21300048: Sprite-COURSE-KROKO_24
+    21300050: Sprite-COURSE-KROKO_25
+    21300052: Sprite-COURSE-KROKO_26
+    21300054: Sprite-COURSE-KROKO_27
+    21300056: Sprite-COURSE-KROKO_28
+    21300058: Sprite-COURSE-KROKO_29
+    21300060: Sprite-COURSE-KROKO_30
+    21300062: Sprite-COURSE-KROKO_31
+    21300064: Sprite-COURSE-KROKO_32
+    21300066: Sprite-COURSE-KROKO_33
+    21300068: Sprite-COURSE-KROKO_34
+    21300070: Sprite-COURSE-KROKO_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite-COURSE-KROKO_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 810
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 810
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 810
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_3
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 810
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 810
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 810
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_6
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 810
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_7
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 810
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_8
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 810
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 540
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 540
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 540
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 540
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_13
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 540
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 540
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_15
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 540
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_16
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 540
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_17
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 540
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 270
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 270
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 270
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 270
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_22
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 270
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 270
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_24
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 270
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_25
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 270
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_26
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 270
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_29
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_30
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_31
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_32
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_33
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_34
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 0
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    - name: Sprite-COURSE-KROKO_35
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 208.88889
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -104.5, y: 135}
+        - {x: -104.5, y: -135}
+        - {x: 104.5, y: -135}
+        - {x: 104.5, y: 135}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

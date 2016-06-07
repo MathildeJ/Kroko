@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 3faa0546784a50c4596f12ae5120bcbc
+timeCreated: 1462810711
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enfant-marche - course_0
+    21300002: enfant-marche - course_1
+    21300004: enfant-marche - course_2
+    21300006: enfant-marche - course_3
+    21300008: enfant-marche - course_4
+    21300010: enfant-marche - course_5
+    21300012: enfant-marche - course_6
+    21300014: enfant-marche - course_7
+    21300016: enfant-marche - course_8
+    21300018: enfant-marche - course_9
+    21300020: enfant-marche - course_10
+    21300022: enfant-marche - course_11
+    21300024: enfant-marche - course_12
+    21300026: enfant-marche - course_13
+    21300028: enfant-marche - course_14
+    21300030: enfant-marche - course_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enfant-marche - course_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 910
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -8}
+        - {x: 40, y: -12}
+        - {x: 65, y: -22}
+        - {x: 75, y: -22}
+        - {x: 75, y: 9}
+        - {x: 58, y: 60}
+        - {x: -46, y: 60}
+        - {x: -75, y: 48}
+        - {x: -75, y: -7}
+        - {x: -35, y: -33}
+        - {x: 5, y: -32}
+        - {x: 7, y: -30}
+        - {x: 8, y: -33}
+        - {x: 4, y: -33}
+        - {x: -2, y: -42}
+        - {x: -7, y: -50}
+        - {x: -7, y: -55}
+        - {x: -5, y: -57}
+        - {x: 6, y: -57}
+        - {x: 9, y: -60}
+        - {x: 29, y: -60}
+        - {x: 36, y: -57}
+        - {x: 39, y: -16}
+        - {x: 37, y: -10}
+    - name: enfant-marche - course_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 910
+        width: 150
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -14.5}
+        - {x: 65, y: -24.5}
+        - {x: 75, y: -24.5}
+        - {x: 75, y: 30.5}
+        - {x: 28, y: 57.5}
+        - {x: -48, y: 57.5}
+        - {x: -75, y: 38.5}
+        - {x: -75, y: -34.5}
+        - {x: -59, y: -57.5}
+        - {x: 26, y: -57.5}
+        - {x: 42, y: -18.5}
+        - {x: 37, y: -12.5}
+        - {x: 35, y: -10.5}
+    - name: enfant-marche - course_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 905
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -17}
+        - {x: 65, y: -27}
+        - {x: 75, y: -27}
+        - {x: 75, y: 33}
+        - {x: 28, y: 60}
+        - {x: -47, y: 60}
+        - {x: -75, y: 36}
+        - {x: -75, y: -13}
+        - {x: -35, y: -60}
+        - {x: 18, y: -60}
+        - {x: 38, y: -21}
+        - {x: 37, y: -15}
+        - {x: 35, y: -13}
+    - name: enfant-marche - course_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 905
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -12}
+        - {x: 65, y: -22}
+        - {x: 75, y: -22}
+        - {x: 75, y: 9}
+        - {x: 58, y: 60}
+        - {x: -46, y: 60}
+        - {x: -75, y: 48}
+        - {x: -75, y: -10}
+        - {x: -11, y: -54}
+        - {x: 0, y: -52}
+        - {x: 7, y: -45}
+        - {x: 3, y: -55}
+        - {x: 3, y: -60}
+        - {x: 22, y: -60}
+        - {x: 38, y: -16}
+        - {x: 37, y: -10}
+        - {x: 35, y: -8}
+    - name: enfant-marche - course_4
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 910
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -8}
+        - {x: 40, y: -12}
+        - {x: 65, y: -22}
+        - {x: 75, y: -22}
+        - {x: 75, y: 9}
+        - {x: 58, y: 60}
+        - {x: -52, y: 60}
+        - {x: -75, y: 51}
+        - {x: -75, y: -20}
+        - {x: -21, y: -60}
+        - {x: 2, y: -60}
+        - {x: 6, y: -59}
+        - {x: 14, y: -46}
+        - {x: 12, y: -54}
+        - {x: 13, y: -60}
+        - {x: 29, y: -60}
+        - {x: 36, y: -57}
+        - {x: 39, y: -16}
+        - {x: 37, y: -10}
+    - name: enfant-marche - course_5
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 905
+        width: 150
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -14.5}
+        - {x: 65, y: -24.5}
+        - {x: 75, y: -24.5}
+        - {x: 75, y: 30.5}
+        - {x: 28, y: 57.5}
+        - {x: -48, y: 57.5}
+        - {x: -75, y: 38.5}
+        - {x: -75, y: -34.5}
+        - {x: -59, y: -57.5}
+        - {x: 26, y: -57.5}
+        - {x: 42, y: -18.5}
+        - {x: 37, y: -12.5}
+        - {x: 35, y: -10.5}
+    - name: enfant-marche - course_6
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 910
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -17}
+        - {x: 65, y: -27}
+        - {x: 75, y: -27}
+        - {x: 75, y: 33}
+        - {x: 28, y: 60}
+        - {x: -47, y: 60}
+        - {x: -75, y: 36}
+        - {x: -75, y: -13}
+        - {x: -35, y: -60}
+        - {x: 18, y: -60}
+        - {x: 38, y: -21}
+        - {x: 37, y: -15}
+        - {x: 35, y: -13}
+    - name: enfant-marche - course_7
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 910
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -12}
+        - {x: 65, y: -22}
+        - {x: 75, y: -22}
+        - {x: 75, y: 9}
+        - {x: 58, y: 60}
+        - {x: -46, y: 60}
+        - {x: -75, y: 48}
+        - {x: -75, y: -10}
+        - {x: -11, y: -54}
+        - {x: 0, y: -52}
+        - {x: 7, y: -45}
+        - {x: 3, y: -55}
+        - {x: 3, y: -60}
+        - {x: 22, y: -60}
+        - {x: 38, y: -16}
+        - {x: 37, y: -10}
+        - {x: 35, y: -8}
+    - name: enfant-marche - course_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 756
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 60}
+        - {x: -75, y: 42}
+        - {x: -75, y: -30}
+        - {x: -35, y: -60}
+        - {x: 32, y: -60}
+        - {x: 75, y: -10}
+        - {x: 75, y: 16}
+        - {x: 40, y: 60}
+    - name: enfant-marche - course_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 756
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -15}
+        - {x: 75, y: 3}
+        - {x: 36, y: 60}
+        - {x: -47, y: 60}
+        - {x: -75, y: 40}
+        - {x: -75, y: -41}
+        - {x: -29, y: -60}
+        - {x: 2, y: -60}
+        - {x: 2, y: -55}
+        - {x: 0, y: -53}
+        - {x: 19, y: -40}
+    - name: enfant-marche - course_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 751
+        width: 150
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -57.5}
+        - {x: 12, y: -57.5}
+        - {x: 12, y: -52.5}
+        - {x: 10, y: -50.5}
+        - {x: 12, y: -32.5}
+        - {x: 75, y: -9.5}
+        - {x: 75, y: 13.5}
+        - {x: 40, y: 57.5}
+        - {x: -47, y: 57.5}
+        - {x: -75, y: 38.5}
+        - {x: -75, y: -24.5}
+        - {x: -63, y: -27.5}
+        - {x: -24, y: -57.5}
+        - {x: -13, y: -57.5}
+        - {x: -12, y: -51.5}
+        - {x: -12, y: -52.5}
+    - name: enfant-marche - course_11
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 756
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -55}
+        - {x: 7, y: -50}
+        - {x: 3, y: -44}
+        - {x: 18, y: -33}
+        - {x: 75, y: -7}
+        - {x: 75, y: 16}
+        - {x: 40, y: 60}
+        - {x: -47, y: 60}
+        - {x: -75, y: 41}
+        - {x: -75, y: -22}
+        - {x: -63, y: -25}
+        - {x: -33, y: -60}
+        - {x: -13, y: -60}
+        - {x: -11, y: -54}
+        - {x: -6, y: -58}
+        - {x: 5, y: -57}
+    - name: enfant-marche - course_12
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 751
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 60}
+        - {x: -75, y: 42}
+        - {x: -75, y: -30}
+        - {x: -35, y: -60}
+        - {x: 32, y: -60}
+        - {x: 75, y: -10}
+        - {x: 75, y: 16}
+        - {x: 40, y: 60}
+    - name: enfant-marche - course_13
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 751
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -15}
+        - {x: 75, y: 3}
+        - {x: 36, y: 60}
+        - {x: -47, y: 60}
+        - {x: -75, y: 40}
+        - {x: -75, y: -41}
+        - {x: -29, y: -60}
+        - {x: 2, y: -60}
+        - {x: 2, y: -55}
+        - {x: 0, y: -53}
+        - {x: 19, y: -40}
+    - name: enfant-marche - course_14
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 756
+        width: 150
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -57.5}
+        - {x: 12, y: -57.5}
+        - {x: 12, y: -52.5}
+        - {x: 10, y: -50.5}
+        - {x: 12, y: -32.5}
+        - {x: 75, y: -9.5}
+        - {x: 75, y: 13.5}
+        - {x: 40, y: 57.5}
+        - {x: -47, y: 57.5}
+        - {x: -75, y: 38.5}
+        - {x: -75, y: -24.5}
+        - {x: -63, y: -27.5}
+        - {x: -24, y: -57.5}
+        - {x: -13, y: -57.5}
+        - {x: -12, y: -51.5}
+        - {x: -12, y: -52.5}
+    - name: enfant-marche - course_15
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 756
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 60}
+        - {x: -75, y: 41}
+        - {x: -75, y: -22}
+        - {x: -63, y: -25}
+        - {x: -33, y: -60}
+        - {x: 27, y: -60}
+        - {x: 75, y: -25}
+        - {x: 75, y: 16}
+        - {x: 40, y: 60}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

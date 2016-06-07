@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: cce10c53a8465c645b8f5e9d7eeb1483
+timeCreated: 1462910178
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sabre_goright_0
+    21300002: Sabre_goright_1
+    21300004: Sabre_goright_2
+    21300006: Sabre_goright_3
+    21300008: Sabre_goright_4
+    21300010: Sabre_goright_5
+    21300012: Sabre_goright_6
+    21300014: Sabre_goright_7
+    21300016: Sabre_goright_8
+    21300018: Sabre_goright_9
+    21300020: Sabre_goright_10
+    21300022: Sabre_goright_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sabre_goright_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -19, y: 11}
+        - {x: -19, y: -16}
+        - {x: 15, y: -16}
+        - {x: 19, y: -9}
+        - {x: 19, y: 10}
+        - {x: 15, y: 16}
+    - name: Sabre_goright_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 16}
+        - {x: -19.5, y: -16}
+        - {x: 18.5, y: -16}
+        - {x: 19.5, y: -15}
+        - {x: 19.5, y: 14}
+        - {x: 18.5, y: 16}
+    - name: Sabre_goright_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 11.5}
+        - {x: 14, y: 16.5}
+        - {x: -17, y: 16.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: -16.5}
+        - {x: 19, y: -16.5}
+    - name: Sabre_goright_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 16.5}
+        - {x: -19.5, y: 14.5}
+        - {x: -19.5, y: -16.5}
+        - {x: 6.5, y: -16.5}
+        - {x: 19.5, y: -14.5}
+        - {x: 19.5, y: 16.5}
+    - name: Sabre_goright_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sabre_goright_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sabre_goright_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -19, y: 14}
+        - {x: -19, y: -8}
+        - {x: -17, y: -16}
+        - {x: 19, y: -16}
+        - {x: 19, y: 12}
+        - {x: 16, y: 16}
+    - name: Sabre_goright_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 16}
+        - {x: -19.5, y: 13}
+        - {x: -19.5, y: -8}
+        - {x: -16.5, y: -16}
+        - {x: 15.5, y: -16}
+        - {x: 19.5, y: -11}
+        - {x: 19.5, y: 12}
+        - {x: 14.5, y: 16}
+    - name: Sabre_goright_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 16.5}
+        - {x: -19, y: -13.5}
+        - {x: -11, y: -16.5}
+        - {x: 15, y: -16.5}
+        - {x: 19, y: -7.5}
+        - {x: 19, y: 12.5}
+        - {x: 14, y: 16.5}
+    - name: Sabre_goright_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 16}
+        - {x: -19.5, y: 15}
+        - {x: -19.5, y: -11}
+        - {x: -17.5, y: -16}
+        - {x: 14.5, y: -16}
+        - {x: 19.5, y: -11}
+        - {x: 19.5, y: 16}
+    - name: Sabre_goright_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sabre_goright_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -16}
+        - {x: 19, y: -15}
+        - {x: 19, y: 10}
+        - {x: 15, y: 16}
+        - {x: -17, y: 16}
+        - {x: -19, y: 12}
+        - {x: -19, y: -16}
+        - {x: -5, y: -16}
+        - {x: -5, y: -15}
+        - {x: -4, y: -12}
+        - {x: 0, y: -16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
